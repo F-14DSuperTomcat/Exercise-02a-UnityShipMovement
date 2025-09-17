@@ -1,8 +1,32 @@
-# Exercise02a-UnityShipMovement
+# \# Exercise-02a-Ship
 
-Ryan Green
+# 
 
-F-14DSuperTomcat
+# Exercise for MSCH-C220
 
-Created ship, set key binds, and set ship to wrap around edges of screen
+# 
+
+# A user-controlled ship for a space-shooter game. Created in Unity.
+
+# 
+
+# \## Implementation
+
+# 
+
+# \## References
+
+# None
+
+# 
+
+# \## Future Development
+
+# None
+
+# 
+
+# \## Created by
+
+# Ryan Green
 
